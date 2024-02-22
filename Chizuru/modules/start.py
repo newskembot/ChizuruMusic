@@ -20,6 +20,8 @@ button = InlineKeyboardMarkup([
             InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),    
         ],
         [
+            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/Fatman_Big"
+            ),
             InlineKeyboardButton("↯ ᴄᴏᴍᴍᴀɴᴅs ↯", callback_data="help_"),    
         ]
 ])
@@ -83,7 +85,9 @@ async def cb_handler(client, query):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-                InlineKeyboardButton("↯ ᴄᴏᴍᴍᴀɴᴅs ↯", callback_data="help_")
+            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/Fatman_Big"
+            ),
+            InlineKeyboardButton("↯ ᴄᴏᴍᴍᴀɴᴅs ↯", callback_data="help_")
             ]    
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
