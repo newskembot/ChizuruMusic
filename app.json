@@ -22,7 +22,7 @@
         },
         "SESSION_STRING": {
             "description": "A Pyrogram v2 String Session.",
-            "value": "BQFAjFoATzqKIbBrdX7cOl_B7I7ZJ5Z9jbd82bNZnRI6rGlPLmsUUUkCGMWH8Mj-J4ih-aojLkF4s9ammrV9qwIi0ICfr4i4x-7IbSyoIVZbv7e80JeYjD4cCjLt9p3t0HEctvzoe6z_IaYaLn7ppeKfDZ4G9C-gwErB7mI_4BI5z4Pdgb0UrexCCk9R7s-lbUp1t0SLMkhf0BoczB05nxYxhadvLTDacwDQPKHHjMETCAmSZFAHB9oQSADll43yTFrg7Y_aRsCb-5pT6QE3n0OEG_Jao8kybW8WrXXhZomkH794u98BeuF2fJcmttXcFD1FvuzD6S1P62_sC-GhN7N_slT3PQAAAABxbTkGAA",
+            "value": "BBQFAjFoAGIDglN41UXSsssNOzUqw6TaAyjnMt-QXuHPjeEUJpo6K39T-zzDCUTiCHL-pOpUV5bLDpAMiM5p0JS3sjroUPt6pGM5VgoyfC9JB8pddrRt49F12h9DHDC783zED69SmfoOgeEUxCwQruwhTq2CIH1c5DToP7l7Tko_LqyQ-HZPaEqo4iHIgFcwJMrYr4Y7c427EpjIX0Ax0s58fwF6ErtOxT6cYsVT42g3a_A-5zxNg8oHCH2IJ1JzIQnDCSKbEsaPoCERnXOSgZTq3ZGOWZf241B1ja6iF0m-4J-68D5lHONDe3Vy-LMFUMomOFe-c3u-DZZ_TvnnqqjBo7HE1yQAAAABxbTkGAA",
             "required": true
         },
         "SUDO_USERS": {
